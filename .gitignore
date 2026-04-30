@@ -1,0 +1,11 @@
+# Ambiente Virtual (Pasta pesada com bibliotecas instaladas)
+.venv/
+
+# Cache do Python (Arquivos temporários de execução)
+__pycache__/
+
+# Checkpoints do Jupyter (Rascunhos automáticos do Notebook)
+.ipynb_checkpoints/
+
+# Configurações locais do VS Code
+.vscode/
